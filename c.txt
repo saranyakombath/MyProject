@@ -1,0 +1,10 @@
+PYTHON
+1. easy to understand, write <--user friendly
+2. open source
+3. easy syntax
+4. fast and effective
+5. used for everything--> 
+6. portability  --> compiler, interpreter
+7. very strong community
+8. too much library , numpy, pandas, math, seaborn, matplotlib, plotty 
+

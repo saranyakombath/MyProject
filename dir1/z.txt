@@ -1,0 +1,4 @@
+Jupyter notebook
+1. cell--> a place where you write your code
+2. coding--> write only python code
+3. markdown --> write any notes  <-- heading
